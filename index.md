@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages yo
+
+# Welcome to my website
+
+1. Things I do
+2. Social media
 
 You can use the [editor on GitHub](https://github.com/codybaroudeur/codybaroudeur.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
